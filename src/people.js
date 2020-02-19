@@ -2,7 +2,7 @@ export default [
     {
         "name": "Douglas",
         "lastname": "Hernández",
-        "carrera": "Ingeniería Informática",
+        "career": "Ingeniería Informática",
         "carnet":"00004516"},
     
     {
